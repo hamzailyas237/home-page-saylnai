@@ -1,0 +1,195 @@
+.header{
+    padding-left: 230px;
+    width: 100%;
+    color: white;
+    background-color :rgb(49, 109, 195);
+     
+}
+
+.nav-bar{
+    text-transform: capitalize;
+    font-size: 13px;
+ 
+}   
+
+
+.active{
+    background-color :rgb(49, 109, 195);   
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav:hover{
+    background-color:rgb(49, 109, 195);
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;  
+}
+.menu-bar{
+    background-color :rgb(49, 109, 195);
+    text-align: center;
+}
+
+.btn-font{
+    font-size: 11px !important;
+}
+
+h6{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    bottom: 10px;
+} 
+
+.marque{
+    color: white;
+    background-color :rgb(49, 109, 195);
+    margin-left:20%;
+}
+
+p{  
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+}
+.main-paragraph
+{
+    margin: 40px;
+}
+
+.news{
+    background-color :rgb(49, 109, 195);
+    color: white;
+    text-align: center;
+    height: 25px;  
+    width: 80%;
+    margin: 0 auto;
+}
+
+.favicon{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+}
+.icons{
+    background-color:  rgb(38, 85, 232);
+    padding-left: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top:30px ;
+    color: white;  
+    flex: 1;
+    text-align: left;
+    
+}
+
+.flex{
+    flex-wrap: wrap;
+    display: flex;   
+}
+
+.main1{
+    font-size:40px;
+}
+
+.main2{
+    font-size: 20px;   
+}
+
+.main3{
+    color: rgb(64, 100, 200); 
+    margin-top:30px;  
+}
+
+.blue{
+     color: rgb(64, 100, 200);
+}
+
+.green{
+    color: green;
+}
+
+.lime{
+    color: lime;
+}
+.same{
+    display: flex;
+    margin-left: 150px;
+    color:rgb(49, 109, 195);
+    margin-top: 20px; 
+}
+.projects{
+   margin-top: 20px;
+}
+
+.gallery{
+   text-align: center;
+}
+
+.info{
+   background-color:rgb(37, 39, 46);
+   color: gray;
+   text-transform: capitalize;
+   padding-top: 50px;
+   padding-bottom: 50px;  
+   margin-top: 200px;
+}
+
+.footer{
+    color: #427900 !important;    
+}
+
+.icons-bg{
+    background-color:#316DC3;
+    border-radius: 50px;
+    margin: 8px;
+    padding: 7px;  
+}
+
+
+.copyright{
+    background-color:  rgb(38, 85, 232);
+    color:white;
+    padding-top:10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.missions{
+    color: rgb(64, 100, 200);
+    padding: 30px;
+    margin: 15px;  
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    text-align: center;  
+}
+
+.we-are-doing{
+    background-color: #f7f8fa;
+}
+
+.section-title{
+    margin-top: 30px;
+    font-family: 'Merriweather', serif;
+}
+
+.icon-box-left{
+    text-align: left;
+    color: rgb(64, 100, 200);
+    background-color: #f7f8fa !important; 
+    margin: 16px;
+}
+
+h1{
+    font-family: 'Merriweather', serif !important;
+}
+
+marquee{
+    text-align: center;
+}
+
+hr
+{
+    background-color:rgb(32, 114, 32);  
+}
